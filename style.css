@@ -5,3 +5,13 @@ Author URI: http://yusupsaepudin.wordpress.com/
 Description: wordpress theme experiment
 Version: 1.0
 */
+
+header {
+    background: purple;
+    color: white;
+}
+
+footer {
+    background: black;
+    color: white;
+}
